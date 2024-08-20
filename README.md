@@ -1,5 +1,5 @@
 # sql-ddl-extraction
-Extract and parse SQL into individual files sorted into folders.
+Extract and parse SQL, built from Azure Synapse context, into individual files sorted into folders.
 
 Table definitions are derived from metadata found in the sys tables.
 
